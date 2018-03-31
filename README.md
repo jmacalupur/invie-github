@@ -1,4 +1,4 @@
-# invie
+# invie forma parte del curso de Git y Github de Platzi
 Las guitarras más locas
 
-http://leonidasesteban.github.io/invie-responsive/
+https://jmacalupur.github.io/invie-github/
